@@ -1,0 +1,10 @@
+mouseX= It is stand for which is refrering something stored in computer memory that is changed 
+on how the move the mouse
+
+
+mouseX always triggerd inside from drow function which refrering stored
+
+mouseX is built in keyword variable and what this means is mouseX is
+a word that stands for something stored in the computer's memory that changes
+ based on how the user moves the mouse.
+
